@@ -1,28 +1,28 @@
 const expertise = [
     {
         id: 0,
-        title: 'Full Stack Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        title: 'AI & Machine Learning',
+        desc: 'Specialized in building generative AI-powered applications using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Experienced in integrating OpenAI APIs, vector databases like Pinecone, and implementing AI agents for various use cases including customer support, content generation, and intelligent automation.',
     },
     {
         id: 1,
-        title: 'Scrum and Jira',
-        desc: "As a developer, I'm proficient in Jira and Scrum methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. Scrum has improved my teamwork, utilizing daily stand-ups, sprint planning, and retrospectives. My expertise ensures high-quality software products are delivered promptly.",
+        title: 'Full-Stack Development',
+        desc: 'Expert in building scalable web applications using modern technologies. Proficient in React, Next.js for frontend development, and Node.js, Express, FastAPI for backend services. Experienced with databases including MongoDB, MySQL, and Supabase. Skilled in creating RESTful APIs and implementing secure authentication systems.',
     },
     {
         id: 2,
-        title: 'Designing (UI/UX)',
-        desc: 'I am proficient in using design software such as Figma, Adobe XD, and Adobe Illustrator. Through participating in hackathons and freelance work, I have gained practical experience in UI/UX design and graphic design. Designing is my passion, and it has allowed me to continue to develop my creative skills and grow in the field.',
+        title: 'SaaS Platform Development',
+        desc: 'Experienced in developing production-ready SaaS applications with features like multi-tenant architecture, subscription management, analytics dashboards, and secure data handling. Built Turo SaaS for fleet management with CSV import, real-time analytics, and transaction tracking capabilities.',
     },
     {
         id: 3,
-        title: 'Github',
-        desc: "GitHub is essential for version control and collaboration. Its intuitive interface and features like pull requests and issue tracking simplify the process. Continuous integration ensures up-to-date code. GitHub is vital to my success as a developer.",
+        title: 'Chrome Extension Development',
+        desc: 'Built Interview Buddy, a Chrome extension that listens to interviewers and provides AI-generated answers in real-time using Whisper and ChatGPT. Experienced in Chrome APIs, background scripts, content scripts, and creating seamless browser integrations.',
     },
     {
         id: 4,
-        title: 'Open Source Contributor',
-        desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
+        title: 'Vector Databases & RAG',
+        desc: 'Expert in implementing Retrieval-Augmented Generation systems using vector databases like Pinecone. Built Agent Dispatch, a custom AI agent builder that allows users to upload files and generate specialized AI agents using RAG technology for enhanced context-aware responses.',
     },
 ]
 

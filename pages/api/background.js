@@ -3,24 +3,10 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
-            },
-            {
-                id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
-            },
-            {
-                id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                title: 'FAST NUCES',
+                degree: 'BS, Computer Science',
+                detail: "Bachelor's Degree in Computer Science from FAST NUCES. Graduated in 2025.",
+                year: '2021 - 2025'
             },
         ]
     },
@@ -28,32 +14,31 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Tribunus',
+                role: 'Senior Developer',
+                url: '',
+                desc: 'Leading development initiatives as a Senior Developer, working on cutting-edge web applications and AI-powered solutions. Responsible for architecture decisions, code reviews, and mentoring junior developers. Developed Caryoyo, a production-ready SaaS application for Turo hosts.',
+                year: 'December 2025 - Present',
+                location: 'Canada'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'NovaSoft',
+                role: 'Full-Stack AI Developer',
+                url: '',
+                desc: 'Leading development of AI-based web platforms using LLMs and vector databases. Developed Agent Dispatch (custom AI agent builder with RAG), Auto Talent App (AI-powered CV generator), and Interview Buddy (Chrome extension with real-time AI interview answers).',
+                year: 'June 2024 - December 2025',
+                location: 'Remote'
             },
             {
                 id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                title: 'Appalo',
+                role: 'Web Development Intern',
+                url: '',
+                desc: 'Designed responsive web interfaces with React.js. Implemented dynamic UI components with JavaScript and jQuery. Optimized UX with improved layout and design, and added animations for better user engagement.',
+                year: 'June 2023 - August 2023',
+                location: 'Remote'
             },
-
         ]
     }
 ]

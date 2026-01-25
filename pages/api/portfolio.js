@@ -1,160 +1,28 @@
 const portfolio = [
     {
         id: 0,
-        projectName: "JMM ERP",
-        url: "https://jmmerp.com/",
-        image: "projects/erp.png",
-        projectDetail: "Restructure your business with JMM ERP’s all-in-one cloud-based ERP. JMM ERP provides a robust, cost-effective online solution with state-of-the-art software to increase business value and enhance customer impact.",
+        projectName: "Agent Dispatch",
+        url: "https://agent-dispatch.com",
+        image: "projects/agent-dispatch.png",
+        projectDetail: "A custom AI agent builder platform that allows users to upload files and generate specialized AI agents using Retrieval-Augmented Generation (RAG) and OpenAI. Built with scalable architecture using Next.js frontend and FastAPI backend. Users can create task-specific AI agents trained on their own data for enhanced context-aware responses.",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "Next.js"
             },
             {
-                tech: ".net"
+                tech: "FastAPI"
             },
             {
-                tech: "GraphQL"
+                tech: "OpenAI"
             },
             {
-                tech: "Ant Design"
+                tech: "RAG"
             },
             {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "ABSCO",
-        url: "https://absco.sa/",
-        image: "projects/absco.png",
-        projectDetail: "ABSCO offer unparalleled business consulting solutions to meet client’s unique needs.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
+                tech: "Pinecone"
             },
             {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "JMM Technologies",
-        url: "https://jmm.ltd/",
-        image: "projects/jmm.png",
-        projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "ALSN",
-        url: "https://alsn.app/",
-        image: "projects/alsn.png",
-        projectDetail: "ASLN drives digital transformation with certified document translation services. In an interconnected world where seamless communication is imperative, they are strategically positioned to cater to the needs of businesses, individuals, and organizations.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "FirmSanad",
-        url: "/domain-expired",
-        image: "projects/firmsanad.png",
-        projectDetail: "Invest in Saudi Arabia, Streamline Your Business Setup Process in Saudi Arabia with FirmSanad Simplify the process of obtaining licenses and starting a business in Saudi Arabia with our streamlined platform.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "Fateh Al Mustaqbil",
-        url: "https://fatehtour.com/",
-        image: "projects/fateh.png",
-        projectDetail: "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Their expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "Tojjar",
-        url: "/domain-expired",
-        image: "projects/tojjar.png",
-        projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
-        technologiesUsed: [
-            {
-                tech: "Nextjs with SSR"
-            },
-            {
-                tech: "Laravel"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
+                tech: "TypeScript"
             },
             {
                 tech: "TailwindCSS"
@@ -163,73 +31,109 @@ const portfolio = [
     },
     {
         id: 1,
-        projectName: "Otawix",
-        url: "https://b2c.otawix.com/",
-        image: "projects/otawix.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
+        projectName: "Yetti AI",
+        url: "https://yetti.ai/",
+        image: "projects/yetti-ai.png",
+        projectDetail: "An AI-powered customer support platform that provides intelligent chat automation across multiple messaging platforms including WhatsApp, Instagram, Telegram, and more. Features include knowledge base management, workspace hours tracking, billing integration with Stripe, and multi-language support. Built with Next.js 16, Supabase, and modern AI integrations.",
         technologiesUsed: [
             {
-                tech: "NextJS"
+                tech: "Next.js 16"
             },
             {
-                tech: "NodeJS"
+                tech: "Supabase"
             },
             {
-                tech: "REST API's"
+                tech: "Stripe"
             },
             {
-                tech: "MUI"
+                tech: "TypeScript"
             },
             {
                 tech: "TailwindCSS"
+            },
+            {
+                tech: "Framer Motion"
             },
         ]
     },
     {
         id: 2,
-        projectName: "Spatay",
-        url: "https://spatay.com/",
-        image: "projects/spatay.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
+        projectName: "Caryoyo",
+        url: "https://caryoyo.com/",
+        image: "projects/turo-saas.png",
+        projectDetail: "A production-ready SaaS application for Turo hosts to manage their fleet and track profits. Features include secure authentication, robust CSV import with license plate normalization, real-time analytics dashboard with monthly charts, vehicle management, transaction tracking, and beautiful Turo-inspired UI. Built with Next.js 14, Supabase, and comprehensive security features.",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "Next.js 14"
             },
             {
-                tech: "NodeJS"
+                tech: "Supabase"
             },
             {
-                tech: "REST API's"
+                tech: "PostgreSQL"
             },
             {
-                tech: "Ant Design"
+                tech: "TypeScript"
             },
             {
                 tech: "TailwindCSS"
             },
+            {
+                tech: "Recharts"
+            },
+            {
+                tech: "Framer Motion"
+            },
         ]
     },
-    // {
-    //     id: 2,
-    //     projectName: "Culyte",
-    //     url: "https://culyte.com",
-    //     image: "projects/culyte.png",
-    //     projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
-    //     technologiesUsed: [
-    //         {
-    //             tech: "ReactJS"
-    //         },
-    //         {
-    //             tech: "NodeJS"
-    //         },
-    //         {
-    //             tech: "Ant Design"
-    //         },
-    //         {
-    //             tech: "TailwindCSS"
-    //         },
-    //     ]
-    // },
+    {
+        id: 3,
+        projectName: "Auto Talent App",
+        url: "https://app.autotalent.co/",
+        image: "projects/auto-talent.png",
+        projectDetail: "An AI-powered CV generator and LinkedIn job scraper application. Features include AI-generated resume building, LinkedIn job scraping capabilities, and role-based quizzes for skills assessment to evaluate job fit. Helps job seekers create professional resumes and find matching opportunities.",
+        technologiesUsed: [
+            {
+                tech: "Next.js"
+            },
+            {
+                tech: "OpenAI"
+            },
+            {
+                tech: "Node.js"
+            },
+            {
+                tech: "Express"
+            },
+            {
+                tech: "MongoDB"
+            },
+        ]
+    },
+    {
+        id: 4,
+        projectName: "Interview Buddy",
+        url: "",
+        image: "projects/interview-buddy.png",
+        projectDetail: "A Chrome extension that listens to interviewers in real-time and suggests AI-generated answers using Whisper for speech-to-text and ChatGPT for intelligent responses. Provides instant assistance during interviews, helping candidates respond confidently to questions. Built using Chrome APIs, background scripts, and AI integration.",
+        technologiesUsed: [
+            {
+                tech: "Chrome Extension"
+            },
+            {
+                tech: "Whisper API"
+            },
+            {
+                tech: "ChatGPT"
+            },
+            {
+                tech: "JavaScript"
+            },
+            {
+                tech: "Chrome APIs"
+            },
+        ]
+    },
 ]
 export default function handler(req, res) {
     res.status(200).json(portfolio)

@@ -1,67 +1,62 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Haris Ali Wajid';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `AI Web App Developer | Full-Stack Developer | LLM & RAG Specialist`;
 
 export const DETAILS = {
   Residence: 'Pakistan',
-  City: 'Peshawar',
+  City: 'Lahore',
   Age: '23',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '75%',
+    title: 'AI/ML Developer',
+    level: '90%',
   },
   {
-    title: 'React Developer',
-    level: '91%',
+    title: 'Full-Stack Developer',
+    level: '88%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
+  {
+    title: 'React/Next.js Developer',
+    level: '92%',
+  },
   {
     title: 'Backend Developer',
-    level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
+    level: '85%',
   },
 ];
 
 export const TECH_STACK = [
   'JavaScript',
-  'ReactJS',
-  'NextJS',
+  'Python',
+  'React',
+  'Next.js',
   'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
+  'Node.js',
+  'Express',
+  'FastAPI',
   'MongoDB',
   'MySQL',
+  'Supabase',
+  'Pinecone',
+  'OpenAI',
+  'LLMs',
+  'RAG',
+  'REST APIs',
   'Git',
   'GitHub',
-  'Jira',
-  'Figma',
-  'Adobe XD',
+  'TailwindCSS',
+  'Chrome Extensions',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'shharis146@gmail.com',
+  PHONE: '0335-4289855',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/HarisAli-14',
+  LINKEDIN: 'https://www.linkedin.com/in/haris-ali-0596a823a/',
+  TWITTER: '',
+  FACEBOOK: '',
 };

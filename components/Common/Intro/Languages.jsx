@@ -7,10 +7,10 @@ const Languages = () => {
 
     useEffect(() => {
         const timer = setInterval(() => {
-            if (urdu < 98) {
+            if (urdu < 100) {
                 setUrdu(prevCount => prevCount + 1);
             }
-            if (english < 88) {
+            if (english < 100) {
                 setEnglish(prevCount => prevCount + 1);
             }
         }, 30);
