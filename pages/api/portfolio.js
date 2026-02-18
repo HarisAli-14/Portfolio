@@ -2,7 +2,7 @@ const portfolio = [
     {
         id: 0,
         projectName: "Agent Dispatch",
-        url: "https://agent-dispatch.com",
+        url: "https://frontend-refactor-agentdispatch.vercel.app/",
         image: "projects/agent-dispatch.png",
         projectDetail: "A custom AI agent builder platform that allows users to upload files and generate specialized AI agents using Retrieval-Augmented Generation (RAG) and OpenAI. Built with scalable architecture using Next.js frontend and FastAPI backend. Users can create task-specific AI agents trained on their own data for enhanced context-aware responses.",
         technologiesUsed: [
